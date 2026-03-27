@@ -1,5 +1,7 @@
 # 🚨 Runbook: Incident Response
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Mode**: NEXUS-Micro | **Duration**: Minutes to hours | **Agents**: 3-8
 
 ---

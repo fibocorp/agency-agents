@@ -1,5 +1,7 @@
 # 🔄 Phase 6 Playbook — Operate & Evolve
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Duration**: Ongoing | **Agents**: 12+ (rotating) | **Governance**: Studio Producer
 
 ---

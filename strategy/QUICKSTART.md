@@ -1,12 +1,12 @@
-# ⚡ NEXUS Quick-Start Guide
+# NEXUS Quick-Start Guide — FIBO
 
-> **Get from zero to orchestrated multi-agent pipeline in 5 minutes.**
+> **De cero a un pipeline multi-agente orquestado en 5 minutos para el corporativo FIBO.**
 
 ---
 
-## What is NEXUS?
+## Que es NEXUS?
 
-**NEXUS** (Network of EXperts, Unified in Strategy) turns The Agency's AI specialists into a coordinated pipeline. Instead of activating agents one at a time and hoping they work together, NEXUS defines exactly who does what, when, and how quality is verified at every step.
+**NEXUS** (Network of EXperts, Unified in Strategy) convierte a los agentes especializados de FIBO en un pipeline coordinado. En lugar de activar agentes uno a uno esperando que funcionen juntos, NEXUS define exactamente quien hace que, cuando, y como se verifica la calidad en cada paso. Todos los agentes estan orientados a maximizar el funcionamiento del corporativo FIBO: educacion financiera, inversion y asesoria empresarial.
 
 ## Choose Your Mode
 

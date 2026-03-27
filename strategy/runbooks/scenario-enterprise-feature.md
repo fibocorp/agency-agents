@@ -1,5 +1,7 @@
 # 🏢 Runbook: Enterprise Feature Development
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Mode**: NEXUS-Sprint | **Duration**: 6-12 weeks | **Agents**: 20-30
 
 ---
