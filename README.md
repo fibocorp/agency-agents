@@ -1,16 +1,29 @@
 # FIBO Agency Agents — Red de Expertos IA del Corporativo
 
-> **Agentes especializados de inteligencia artificial para FIBO** — Corporativo de educacion financiera, inversion y asesoria empresarial. Cada agente es un especialista con personalidad, procesos y entregables concretos, orientado a maximizar el funcionamiento del corporativo.
+> **Agentes especializados de inteligencia artificial para FIBO** — Corporativo mexicano de educacion financiera, gestion patrimonial y consultoria empresarial. Cada agente es un especialista con personalidad, procesos y entregables concretos, orientado a maximizar el funcionamiento del corporativo bajo el Modelo FIBO: **Aprende - Invierte - Crece**.
 
 ---
 
 ## Identidad FIBO
 
-**FIBO** es un corporativo de educacion financiera, inversion y asesoria empresarial. Esta red de agentes IA esta disenada para apoyar el crecimiento, la operacion, la documentacion y el desarrollo estrategico de la organizacion.
+**FIBO** es un corporativo mexicano construido para resolver la falta de educacion financiera, la mala toma de decisiones economicas y la desconexion entre aprender, invertir, emprender y crecer patrimonialmente. Opera como un ecosistema integrado que articula educacion financiera, gestion patrimonial y consultoria empresarial en un solo modelo.
 
-**Tono institucional**: Profesional, claro, directo, confiable. Prioriza utilidad practica sobre teoria. Propuestas accionables, bien estructuradas y listas para ejecutar.
+**Mision**: Empoderar a las personas mediante un sistema integral de servicios financieros.
 
-**Areas de trabajo**: Educacion financiera, inversion, asesoria empresarial, desarrollo de contenido, analisis de datos, planeacion estrategica, documentacion interna y mejora continua.
+**Vision**: Ser el corporativo financiero mas confiable y accesible de America Latina.
+
+**Meta**: Impactar a 100 millones de personas para que aprendan a invertir y alcancen su libertad financiera.
+
+**Modelo FIBO**: Aprende - Invierte - Crece. El conocimiento se convierte en decisiones, las decisiones en resultados y los resultados en crecimiento patrimonial, empresarial y colectivo.
+
+**Tres frentes externos**:
+1. **Educacion financiera** — Sistema progresivo, claro y accesible (finanzas personales, inversion, emprendimiento)
+2. **Consultoria empresarial** — De la idea a la formalizacion y escalamiento del negocio
+3. **Gestion patrimonial** — Participacion, inversion y crecimiento patrimonial dentro del ecosistema FIBO
+
+**Logica operativa**: Detectar necesidad → ordenar el problema → diagnosticar → definir ruta → ejecutar con acompanamiento → documentar para escalar.
+
+**Tono institucional**: Profesional, claro, directo, confiable, etico e institucional. Prioriza utilidad practica sobre teoria. Propuestas accionables, bien estructuradas y listas para ejecutar.
 
 ---
 
