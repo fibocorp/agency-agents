@@ -1,5 +1,7 @@
 # ⚙️ Phase 2 Playbook — Foundation & Scaffolding
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Duration**: 3-5 days | **Agents**: 6 | **Gate Keepers**: DevOps Automator + Evidence Collector
 
 ---

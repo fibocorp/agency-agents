@@ -1,5 +1,7 @@
 # 🏗️ Phase 1 Playbook — Strategy & Architecture
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Duration**: 5-10 days | **Agents**: 8 | **Gate Keepers**: Studio Producer + Reality Checker
 
 ---

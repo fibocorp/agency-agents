@@ -1,5 +1,7 @@
 # 🛡️ Phase 4 Playbook — Quality & Hardening
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Duration**: 3-7 days | **Agents**: 8 | **Gate Keeper**: Reality Checker (sole authority)
 
 ---

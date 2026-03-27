@@ -1,5 +1,7 @@
 # 📢 Runbook: Multi-Channel Marketing Campaign
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Mode**: NEXUS-Micro to NEXUS-Sprint | **Duration**: 2-4 weeks | **Agents**: 10-15
 
 ---

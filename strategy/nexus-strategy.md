@@ -1,8 +1,8 @@
-# 🌐 NEXUS — Network of EXperts, Unified in Strategy
+# NEXUS — Network of EXperts, Unified in Strategy | FIBO
 
-## The Agency's Complete Operational Playbook for Multi-Agent Orchestration
+## Playbook Operativo Completo de FIBO para Orquestacion Multi-Agente
 
-> **NEXUS** transforms The Agency's independent AI specialists into a synchronized intelligence network. This is not a prompt collection — it is a **deployment doctrine** that turns The Agency into a force multiplier for any project, product, or organization.
+> **NEXUS** transforma a los agentes especializados de FIBO en una red de inteligencia sincronizada. No es una coleccion de prompts — es una **doctrina de despliegue** que convierte a los equipos de FIBO en un multiplicador de fuerza para educacion financiera, inversion, asesoria empresarial y operaciones corporativas.
 
 ---
 

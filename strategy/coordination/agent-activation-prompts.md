@@ -1,5 +1,7 @@
 # 🎯 NEXUS Agent Activation Prompts
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > Ready-to-use prompt templates for activating any agent within the NEXUS pipeline. Copy, customize the `[PLACEHOLDERS]`, and deploy.
 
 ---

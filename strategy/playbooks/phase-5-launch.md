@@ -1,5 +1,7 @@
 # 🚀 Phase 5 Playbook — Launch & Growth
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Duration**: 2-4 weeks (T-7 through T+14) | **Agents**: 12 | **Gate Keepers**: Studio Producer + Analytics Reporter
 
 ---

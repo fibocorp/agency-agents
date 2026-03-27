@@ -1,5 +1,7 @@
 # 🚀 Runbook: Startup MVP Build
 
+> **FIBO**: Corporativo de educacion financiera, inversion y asesoria empresarial. Todos los agentes y procesos estan orientados a maximizar el funcionamiento del corporativo.
+
 > **Mode**: NEXUS-Sprint | **Duration**: 4-6 weeks | **Agents**: 18-22
 
 ---
